@@ -1,0 +1,13 @@
+PRESENTATION DE PHP
+
+Le PHP est un langage de programmation (fonctionnel) à l'inversse des langages HTML et CSS qui sont des langages de conceptions (structure et mise en forme de la page web).
+
+Avec PHP: nous pouvons faire tout type de site et il n'y a pas de limite: moteur de recherche (type google), réseaux sociaux type facebook, plateforme multimédia (type youtube), site d'informations (type wikipedia), boutique é-commerce (type Amazon), petite annonce (type LeBoncoin), forum, blog, espace membre, etc.
+
+CAS D'UTILISATION
+
+Pour mieux comprendre, prenons le cas d'un formulaire.
+
+Un formulaire est déclaré en HTML, il est mis en forme en CSS (HTML+CSS = Conception), mais si nous voulons récupérer et exploiter les saisies postées par l'internaute dans ce formulaire nous aurons besoin du PHP qui est un langage permettant d'effectuer des traitements. (Ce qui nous permettra de récupérer les données).
+
+Sans PHP nous ne pourrons pas faire fonctionner le formulaire! 
